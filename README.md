@@ -7,13 +7,12 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=asyylz&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasyylz&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/asyylz-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 
->
+<hr></hr>
 </div>
 <div align="center" width="50"> <img alt="Tool I use" src="https://img.shields.io/badge/Tool%20I%20use-CACACA?style=for-the-badge&logo=tool&labelColor=black"
 " style="width:150px;"</div>
-
+<hr></hr>
 
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=black)
@@ -29,4 +28,7 @@
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=3776AB&labelColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black)
 
+<hr></hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyylz&theme=darcula&show_icons=true)
 
