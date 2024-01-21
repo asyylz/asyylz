@@ -4,9 +4,9 @@
       <img src="https://github.com/asyylz/asyylz2/blob/00eb60f14946c5e91c3c5361de2f9295c0c65d3c/main.jpg" alt="london" width="150%" align="left">
     </td>
     <td width="50px">
-     <p>🏠 I'm currently living at London. <br>
-        🎯 I'm currently learning frontend  developing.<br>
-        ☕ I'm coffeer.</p>
+     <p>➖I'm currently living at London. <br>
+        ➖I'm currently learning frontend  developing.<br>
+        ➖I'm coffeer.</p>
     </td>
   </tr>
 </table>
