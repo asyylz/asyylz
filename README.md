@@ -1,9 +1,15 @@
-
-<div align="center" width="50">
-<p align="center">
-  <img src="https://github.com/asyylz/asyylz2/blob/00eb60f14946c5e91c3c5361de2f9295c0c65d3c/main.jpg" alt="london" width="30%">
-</p>
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/asyylz/asyylz2/blob/00eb60f14946c5e91c3c5361de2f9295c0c65d3c/main.jpg" alt="london" width="150%" align="left">
+    </td>
+    <td width="50px">
+     <p>🏠 I'm currently living at London. <br>
+        🎯 I'm currently learning frontend  developing.<br>
+        ☕ I'm coffeer.</p>
+    </td>
+  </tr>
+</table>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=asyylz&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasyylz&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
