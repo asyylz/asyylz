@@ -9,11 +9,11 @@
         ➖I'm coffeer.</p>
       <a href="https://linkedin.com/in/asiye-yaliz-8b834922b
 " rel="nofollow">
-        <img src="https://github.com/asyylz/asyylz/assets/49663592/3e014fd8-2114-4ced-939a-0afaf2d1cc5d" height="40em" align="center" alt="LinkedIn" target="_blank" style="max-width: 100%;"></a>
+        <img src="https://github.com/asyylz/asyylz/assets/49663592/3e014fd8-2114-4ced-939a-0afaf2d1cc5d" height="20em" align="center" alt="LinkedIn" target="_blank" style="max-width: 100%;"></a>
         <a href="https://www.instagram.com/asyylzz" rel="nofollow">
-        <img src="https://github.com/asyylz/asyylz/blob/f69cb69a61f07ae652b5bc97e349d27a3e96e4b2/assets/instagram.png" height="40em" align="center" alt="instagram" target="_blank" style="max-width: 100%;"></a>
+        <img src="https://github.com/asyylz/asyylz/blob/f69cb69a61f07ae652b5bc97e349d27a3e96e4b2/assets/instagram.png" height="30em" align="center" alt="instagram" target="_blank" style="max-width: 100%;"></a>
         <a href="mailto:asiyeyaliz@gmail.com" rel="nofollow" target="_blank">
-  <img src="https://github.com/asyylz/asyylz/raw/f69cb69a61f07ae652b5bc97e349d27a3e96e4b2/assets/gmail.png" height="40em" align="center" alt="Gmail" style="max-width: 100%;">
+  <img src="https://github.com/asyylz/asyylz/raw/f69cb69a61f07ae652b5bc97e349d27a3e96e4b2/assets/gmail.png" height="20em" align="center" alt="Gmail" style="max-width: 100%;">
 </a>
     </td>
   </tr>
