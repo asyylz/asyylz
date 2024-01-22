@@ -35,12 +35,13 @@
 ![Json](https://img.shields.io/badge/JSON-595959?style=for-the-badge&logo=JSON&logoColor=595959&labelColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=black)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=CACACA)
 ![MarkDown](https://img.shields.io/badge/MarkDown-000000?style=for-the-badge&logo=markdown&logoColor=000000&labelColor=CACACA)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=3776AB&labelColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=black)
 
 <hr></hr>
 
