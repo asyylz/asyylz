@@ -48,3 +48,10 @@
 <hr></hr>
 <img align="center" width="34%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyylz&amp;layout=compact&amp;theme=tokyonight">
 <img align="center" width="40%" style="max-width: 100%;" alt="asyylz" src="https://github-readme-streak-stats.herokuapp.com/?user=asyylz&amp;theme=tokyonight">
+<hr></hr>
+
+| Project Name and Link | Preview |
+|--------------|---------|
+|[1-ClaruswayStudentBootstrap](https://asyylz.github.io/ProjectsFromBootCamp_Html_Css/ClaruswayStudentBootstrap/)|![Project 1 Preview](https://github.com/asyylz/ProjectsFromBootCamp_Html_Css/blob/790c27dbe44209578bd623f3fcb1fea0a6f589a4/gifs/1-clarusway.gif)|
+|[2-Pokemon](https://asyylz.github.io/ProjectsFromBootCamp_Html_Css/Pokemon/)
+|[3-Pokemon_Grid](https://asyylz.github.io/ProjectsFromBootCamp_Html_Css/Pokemon_Grid/)
