@@ -24,7 +24,7 @@
 </table>
 <hr></hr>
 </div>
-<div align="center" width="30em" > <img alt="Tool I use" src="https://img.shields.io/badge/Tool%20I%20use-CACACA?style=for-the-badge&logo=tool&labelColor=black"
+<div align="center" width="30em" > <img alt="Tool I use" src="https://img.shields.io/badge/Tools%20I%20use-CACACA?style=for-the-badge&logo=tool&labelColor=black"
 " style="width:150px; height:40px;"</div>
 <hr></hr>
 
@@ -43,8 +43,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black)
 
 <hr></hr>
-<p dir="auto"> <img align="center" width="35%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api?username=asyylz&theme=darcula&show_icons=true">
-</p><br>
+
 <img align="center" width="35%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api?username=asyylz&theme=darcula&show_icons=true"><br>
 <hr></hr>
 <img align="center" width="34%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyylz&amp;layout=compact&amp;theme=tokyonight">
