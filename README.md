@@ -43,6 +43,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black)
 
 <hr></hr>
+<p dir="auto"> <img align="center" width="35%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api?username=asyylz&theme=darcula&show_icons=true">
+</p><br>
 <img align="center" width="35%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api?username=asyylz&theme=darcula&show_icons=true"><br>
 <hr></hr>
 <img align="center" width="34%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyylz&amp;layout=compact&amp;theme=tokyonight">
