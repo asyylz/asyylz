@@ -7,9 +7,9 @@
      <p>➖I'm currently living at London. <br>
         ➖I'm currently learning frontend  developing.<br>
         ➖I'm coffeer.</p>
-      <a href="www.linkedin.com/in/
-asiye-yaliz-8b834922b
-" rel="nofollow"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn" style="max-width: 100%;"></a>
+      <a href="www.linkedin.com/in/asiye-yaliz-8b834922b
+" rel="nofollow">
+        <img src="https://github.com/asyylz/asyylz/assets/49663592/3e014fd8-2114-4ced-939a-0afaf2d1cc5d" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn" style="max-width: 100%;"></a>
     </td>
   </tr>
 </table>
