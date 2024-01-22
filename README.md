@@ -1,4 +1,4 @@
-<table>
+<table  align="center">
   <tr>
     <td width="50%">
       <img src="https://github.com/asyylz/asyylz/blob/318673113cf4037a1b29ae4bd2b877142bd74600/BigBen.jpg" alt="london" width="150%" align="left">
@@ -6,8 +6,8 @@
     <td width="50px">
     
  <p>➖I live in London. <br>
-        ➖My IT career started in 2019 as tester. <br>
-        ➖I'm currently learning frontend  developing.<br>
+        ➖My IT career started in 2019 as an automation tester. <br>
+        ➖I'm currently learning frontend  development.<br>
         ➖Currently, I am focusing on React, Javascript, SASS, Bootstrap...</p>
 
 
@@ -22,14 +22,10 @@
 
   </tr>
 </table>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=asyylz&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasyylz&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-
 <hr></hr>
 </div>
-<div align="center" width="50"> <img alt="Tool I use" src="https://img.shields.io/badge/Tool%20I%20use-CACACA?style=for-the-badge&logo=tool&labelColor=black"
-" style="width:150px;"</div>
+<div align="center" width="30em" > <img alt="Tool I use" src="https://img.shields.io/badge/Tool%20I%20use-CACACA?style=for-the-badge&logo=tool&labelColor=black"
+" style="width:150px; height:40px;"</div>
 <hr></hr>
 
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
