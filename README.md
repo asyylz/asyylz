@@ -12,15 +12,12 @@
         <img src="https://github.com/asyylz/asyylz/assets/49663592/3e014fd8-2114-4ced-939a-0afaf2d1cc5d" height="40em" align="center" alt="LinkedIn" target="_blank" style="max-width: 100%;"></a>
         <a href="https://www.instagram.com/asyylzz" rel="nofollow">
         <img src="https://github.com/asyylz/asyylz/blob/f69cb69a61f07ae652b5bc97e349d27a3e96e4b2/assets/instagram.png" height="40em" align="center" alt="instagram" target="_blank" style="max-width: 100%;"></a>
-        <a href="" rel="nofollow">
-        <img src="mailto:asiyeyaliz@gmail.com" height="40em" align="center" alt="gmail" target="_blank" style="max-width: 100%;"></a>
+        <a href="mailto:asiyeyaliz@gmail.com" rel="nofollow" target="_blank">
+  <img src="https://github.com/asyylz/asyylz/raw/f69cb69a61f07ae652b5bc97e349d27a3e96e4b2/assets/gmail.png" height="40em" align="center" alt="Gmail" style="max-width: 100%;">
+</a>
     </td>
   </tr>
 </table>
-
-
-
-
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=asyylz&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasyylz&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
@@ -50,4 +47,3 @@
 <hr></hr>
 <img align="center" width="34%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyylz&amp;layout=compact&amp;theme=tokyonight">
 <img align="center" width="40%" style="max-width: 100%;" alt="asyylz" src="https://github-readme-streak-stats.herokuapp.com/?user=asyylz&amp;theme=tokyonight">
-
