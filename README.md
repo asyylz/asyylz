@@ -54,7 +54,6 @@
 | Project Name and Link | Preview |
 |--------------|---------|
 |[1-ClaruswayStudentBootstrap](https://asyylz.github.io/ProjectsFromBootCamp_Html_Css/ClaruswayStudentBootstrap/)|![Project 1 Preview](https://github.com/asyylz/ProjectsFromBootCamp_Html_Css/blob/790c27dbe44209578bd623f3fcb1fea0a6f589a4/gifs/1-clarusway.gif)|
-|[2-Pokemon](https://asyylz.github.io/ProjectsFromBootCamp_Html_Css/Pokemon/)|![pokemon](https://github.com/asyylz/ProjectsFromBootCamp_Html_Css/blob/43a761c9cafb9df5181491a2b867b6f547ecca5d/gifs/2-pokemon.gif)
-|[3-Pokemon_Grid](https://asyylz.github.io/ProjectsFromBootCamp_Html_Css/Pokemon_Grid/)
-|[4-50 HTML-CSS Projects](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects)|![50htmlcss](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects/0-Screen%20Shots/50%20html-css%20projects.gif)
-|[5-Responsive-Layout](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/2161b1dde75b49ac93d742176f671dbf405abb2e/layout-Responsive)|![responsiveLayout](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/2161b1dde75b49ac93d742176f671dbf405abb2e/gifs/responsive-layout.gif)
+|[2-Colorpedia Search](https://github.com/asyylz/HTML-CSS-JS-Projects/tree/6b4afcd04742e038364375fe1759b996b5d2fec9/1-Colourpedia_Search)|![colourpedia](https://github.com/asyylz/HTML-CSS-JS-Projects/blob/19b66d70c6f10df63a8d3486da8d7c3f7773cdd8/1-Colourpedia_Search/colourpedia.gif)
+|[3-50 HTML-CSS Projects](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects)|![50htmlcss](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects/0-Screen%20Shots/50%20html-css%20projects.gif)
+|[4-Responsive-Layout](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/2161b1dde75b49ac93d742176f671dbf405abb2e/layout-Responsive)|![responsiveLayout](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/2161b1dde75b49ac93d742176f671dbf405abb2e/gifs/responsive-layout.gif)
