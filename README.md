@@ -53,7 +53,7 @@
 
 | Project Name and Link | Preview |
 |--------------|---------|
-|[1-Weather Check App](https://asyylz.github.io/Weather-Check-App/)|![Wheater App](https://github.com/asyylz/Weather-Check-App.git)|
+|[1-Weather Check App-deployed](https://asyylz.github.io/Weather-Check-App/)|![Wheater App](https://github.com/asyylz/Weather-Check-App.git)|
 |[1-Flower Shop-deployed](https://asyylz.github.io/FlowerShopping/)|![Flower Shop](https://github.com/asyylz/HTML-CSS-JS-Projects/blob/508c7017aabaae4f721d195dac96499692cad6bb/6-FlowerShopping/assets/preview.gif)|
 |[2-Colorpedia Search-deployed](https://asyylz.github.io/ColourpediaSeacrh/)|![colourpedia](https://github.com/asyylz/HTML-CSS-JS-Projects/blob/19b66d70c6f10df63a8d3486da8d7c3f7773cdd8/1-Colourpedia_Search/colourpedia.gif)
 |[3-50 HTML-CSS Projects](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects)|![50htmlcss](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects/0-Screen%20Shots/50%20html-css%20projects.gif)
