@@ -52,9 +52,9 @@
 <hr></hr>
 
 | Project Name and Link | Preview | Reach Source Code|
-|----------------|---------|-------|
+|-------|---------|-------|
 |[1-Weather Check App](https://asyylz.github.io/Weather-Check-App/)|![Wheater App](https://github.com/asyylz/Weather-Check-App.git)|[Reach Source Code](https://github.com/asyylz/Weather-Check-App)|
-|[2-Bankist](https://asyylz.github.io/Bankist/)|<img src="https://github.com/asyylz/Bankist/blob/a622a6e95e80b74be42957db15099a8ffb315643/bankist.gif" width="600" height="400">|[Reach Source Code](https://github.com/asyylz/Bankist)|
+|[2-Bankist](https://asyylz.github.io/Bankist/)|<img src="https://github.com/asyylz/Bankist/blob/a622a6e95e80b74be42957db15099a8ffb315643/bankist.gif" width="500" height="400">|[Reach Source Code](https://github.com/asyylz/Bankist)|
 |[3-Flower Shop](https://asyylz.github.io/FlowerShopping/)|<img src="https://github.com/asyylz/HTML-CSS-JS-Projects/blob/508c7017aabaae4f721d195dac96499692cad6bb/6-FlowerShopping/assets/preview.gif" width="600" height="400">|[Reach Source Code](https://github.com/asyylz/FlowerShopping.git)|
 |[4-Colorpedia Searchd](https://asyylz.github.io/ColourpediaSeacrh/)|![colourpedia](https://github.com/asyylz/HTML-CSS-JS-Projects/blob/19b66d70c6f10df63a8d3486da8d7c3f7773cdd8/1-Colourpedia_Search/colourpedia.gif)|[Reach Source Code](https://github.com/asyylz/ColourpediaSeacrh.git)
 |[5-50 HTML-CSS Projects](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects)|![50htmlcss](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects/0-Screen%20Shots/50%20html-css%20projects.gif)|[Reach Source Code](https://github.com/asyylz/Html-Css-Repo-SelfStudy.git)|
