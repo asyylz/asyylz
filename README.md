@@ -53,6 +53,7 @@
 
 | Project Name and Link | Preview | Reach Source Code|
 |-------|---------|-------|
+|[1-RGB ToDo App](https://to-do-app-rgb-style.vercel.app/)|![todoapprgb]|[Reach Source Code](https://github.com/asyylz/ToDo-App-RGBStyle.git)|
 |[1-Horoscope-App](https://asyylz.github.io/Horoscope-App/)|![horoscope](https://github.com/asyylz/Horoscope-App/blob/06d0e26e2dc5994fb1f52aad741f68986e05ca46/public/outcome.gif)|[Reach Source Code](https://github.com/asyylz/Horoscope-App.git)
 |[2-Weather Check App](https://asyylz.github.io/Weather-Check-App/)|![Wheater App](https://github.com/asyylz/Weather-Check-App.git)|[Reach Source Code](https://github.com/asyylz/Weather-Check-App)|
 |[3-Bankist](https://asyylz.github.io/Bankist/)|<img src="https://github.com/asyylz/Bankist/blob/a622a6e95e80b74be42957db15099a8ffb315643/bankist.gif" width="500" height="300">|[Reach Source Code](https://github.com/asyylz/Bankist)|
@@ -60,5 +61,5 @@
 |[5-Colorpedia Searchd](https://asyylz.github.io/ColourpediaSeacrh/)|![colourpedia](https://github.com/asyylz/HTML-CSS-JS-Projects/blob/19b66d70c6f10df63a8d3486da8d7c3f7773cdd8/1-Colourpedia_Search/colourpedia.gif)|[Reach Source Code](https://github.com/asyylz/ColourpediaSeacrh.git)
 |[6-50 HTML-CSS Projects](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects)|![50htmlcss](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects/0-Screen%20Shots/50%20html-css%20projects.gif)|[Reach Source Code](https://github.com/asyylz/Html-Css-Repo-SelfStudy.git)|
 |[7-Responsive-Layout](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/2161b1dde75b49ac93d742176f671dbf405abb2e/layout-Responsive)|![responsiveLayout](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/2161b1dde75b49ac93d742176f671dbf405abb2e/gifs/responsive-layout.gif)|[Reach Source Code](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/952e3150328ae5e597d0887e8c13fafbfff29fd2/layout-Responsive)|
-|[8-ClaruswayStudentBootstrap](https://asyylz.github.io/ProjectsFromBootCamp_Html_Css/ClaruswayStudentBootstrap/)|![Project 1 Preview](https://github.com/asyylz/ProjectsFromBootCamp_Html_Css/blob/790c27dbe44209578bd623f3fcb1fea0a6f589a4/gifs/1-clarusway.gif)|[Reach Source Code](https://github.com/asyylz/Bankist)|
+
 
