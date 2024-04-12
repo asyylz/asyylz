@@ -44,9 +44,6 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=black)
 
 <hr></hr>
-
-<img align="center" width="35%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api?username=asyylz&theme=darcula&show_icons=true"><br>
-<hr></hr>
 <img align="center" width="34%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyylz&amp;layout=compact&amp;theme=tokyonight">
 <img align="center" width="40%" style="max-width: 100%;" alt="asyylz" src="https://github-readme-streak-stats.herokuapp.com/?user=asyylz&amp;theme=tokyonight">
 <hr></hr>
