@@ -50,12 +50,6 @@
 <img align="center" width="34%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyylz&amp;layout=compact&amp;theme=tokyonight">
 <img align="center" width="40%" style="max-width: 100%;" alt="asyylz" src="https://github-readme-streak-stats.herokuapp.com/?user=asyylz&amp;theme=tokyonight">
 <hr></hr>
-|[Bankist](https://asyylz.github.io/Bankist/)|<img src="https://github.com/asyylz/Bankist/blob/a622a6e95e80b74be42957db15099a8ffb315643/bankist.gif" width="500" height="300">|[Reach Source Code](https://github.com/asyylz/Bankist)|
-|[Flower Shop](https://asyylz.github.io/FlowerShopping/)|<img src="https://github.com/asyylz/HTML-CSS-JS-Projects/blob/508c7017aabaae4f721d195dac96499692cad6bb/6-FlowerShopping/assets/preview.gif" width="500" height="300">|[Reach Source Code](https://github.com/asyylz/FlowerShopping.git)|
-|[Colorpedia Searchd](https://asyylz.github.io/ColourpediaSeacrh/)|![colourpedia](https://github.com/asyylz/HTML-CSS-JS-Projects/blob/19b66d70c6f10df63a8d3486da8d7c3f7773cdd8/1-Colourpedia_Search/colourpedia.gif)|[Reach Source Code](https://github.com/asyylz/ColourpediaSeacrh.git)
-|[50 HTML-CSS Projects](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects)|![50htmlcss](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects/0-Screen%20Shots/50%20html-css%20projects.gif)|[Reach Source Code](https://github.com/asyylz/Html-Css-Repo-SelfStudy.git)|
-|[Responsive-Layout](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/2161b1dde75b49ac93d742176f671dbf405abb2e/layout-Responsive)|![responsiveLayout](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/2161b1dde75b49ac93d742176f671dbf405abb2e/gifs/responsive-layout.gif)|[Reach Source Code](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/952e3150328ae5e597d0887e8c13fafbfff29fd2/layout-Responsive)|
-
   <section id="outcomes">
     <h2>Outcomes</h2>
     <table>
@@ -83,10 +77,30 @@
            <td><h4>Horoscope App</h4></br><img
               src="https://github.com/asyylz/Horoscope-App/blob/06d0e26e2dc5994fb1f52aad741f68986e05ca46/public/outcome.gif"
               width="300" height="300" alt="foodorder"></td>
-          <td><strong>04</strong></br></br><a href="https://asyylz.github.io/Weather-Check-App/">Website</a></strong></br></br><a href="https://github.com/asyylz/ToDo-App-RGBStyle.git">Code</a></td>
-          <td><img
-              src=""
-              width="300" height="300" alt="foodorder"></td>
+          <td><strong>04</strong></br></br><a href="https://asyylz.github.io/Bankist/">Website</a></strong></br></br><a href="https://github.com/asyylz/Bankist">Code</a></td>
+          <td><h4>Bankist App</h4><img
+              src="https://github.com/asyylz/Bankist/blob/a622a6e95e80b74be42957db15099a8ffb315643/bankist.gif"
+              width="300" height="300" alt="bank"></td>
+        </tr>
+       <tr>
+          <td><strong>05</strong></br></br><a href="https://asyylz.github.io/FlowerShopping/">Website</a></strong></br></br><a href="https://github.com/asyylz/FlowerShopping.git">Code</a></td>
+           <td><h4> Flower Shopping</h4></br><img
+              src="https://github.com/asyylz/HTML-CSS-JS-Projects/blob/508c7017aabaae4f721d195dac96499692cad6bb/6-FlowerShopping/assets/preview.gif"
+              width="300" height="300" alt="flower"></td>
+          <td><strong>06</strong></br></br><a href="https://asyylz.github.io/ColourpediaSeacrh/">Website</a></strong></br></br><a href="https://github.com/asyylz/ColourpediaSeacrh.git">Code</a></td>
+          <td><h4> ColourPedia Search</h4><img
+              src="https://github.com/asyylz/HTML-CSS-JS-Projects/blob/19b66d70c6f10df63a8d3486da8d7c3f7773cdd8/1-Colourpedia_Search/colourpedia.gif"
+              width="300" height="300" alt="colorpedia"></td>
+        </tr>
+       <tr>
+          <td><strong>07</strong></br></br><a href="https://github.com/asyylz/Html-Css-Repo-SelfStudy.git">Code</a></td>
+           <td><h4>Html-Css-SelfStudies</h4></br><img
+              src="https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects/0-Screen%20Shots/50%20html-css%20projects.gif"
+              width="300" height="300" alt="html-css"></td>
+          <td><strong>08</strong></br></br><a href="https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/f837ea483869a0799605cdd5e140437bd2d37f86/50%20html-css%20projects">Code</a></td>
+          <td><h4>Responsive Layout</h4></br><img
+              src="https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/2161b1dde75b49ac93d742176f671dbf405abb2e/gifs/responsive-layout.gif"
+              width="300" height="300" alt="responsive"></td>
         </tr>
       </tbody>
     </table>
