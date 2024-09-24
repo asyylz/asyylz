@@ -63,10 +63,10 @@
           <td><h4>Patient Appointment System</h4></br><img
               src="https://github.com/asyylz/PatientAppointment-App/blob/4e8634c54d742bef21ab549420867a69e1502680/frontend/public/outcome.gif"
               width="300" height="300" alt="patientappointmentsystem"></td>
-          <td><strong>02</strong></br></br><a href="https://asybook-store.netlify.app/">Website</a></strong></br></br><a href="https://github.com/asyylz/Book-Store">Code</a></td>
-          <td><h4>Book Store App</h4></br><img
+          <td><strong>02</strong></br></br><a href="">Website</a></strong></br></br><a href="">Code</a></td>
+          <td><h4></h4></br><img
               src=""
-              width="300" height="300" alt="Weather Check"></td>
+              width="300" height="300" alt=""></td>
         </tr>
           <tr>
           <td><strong>03</strong></br></br><a href="https://asyblogapp.netlify.app/?page=1&limit=6">Website</a></strong></br></br><a href="https://github.com/asyylz/Blog-App">Code</a></td>
