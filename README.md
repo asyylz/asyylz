@@ -75,8 +75,8 @@
               width="300" height="300" alt="foodorder"></td>
           <td><strong>04</strong></br></br><a href="https://asybook-store.netlify.app/">Website</a></strong></br></br><a href="https://github.com/asyylz/Book-Store">Code</a></td>
           <td><h4>Book Store App</h4></br><img
-              src=""
-              width="300" height="300" alt="Weather Check"></td>
+              src="https://github.com/asyylz/Book-Store/blob/371a4e13e22c0bea8a2973cbea48446c4fe8fe45/public/assets/outcome-bookstore.jpeg"
+              width="300" height="300" alt="Book Store"></td>
         </tr>
         <tr>
           <td><strong>05</strong></br></br><a href="https://sitefoodorder.netlify.app/">Website</a></strong></br></br><a href="https://github.com/asyylz/Food-Order-App">Code</a></td>
