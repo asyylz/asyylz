@@ -12,22 +12,27 @@
 <div align="center" width="30em" > <img alt="Tool I use" src="https://img.shields.io/badge/Tools%20I%20use-CACACA?style=for-the-badge&logo=tool&labelColor=black"
 " style="width:150px; height:40px;"</div>
 <hr></hr>
-
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
-![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=black)
-![Node js](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=3C873A&labelColor=black)
-![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=black)
-![Json](https://img.shields.io/badge/JSON-595959?style=for-the-badge&logo=JSON&logoColor=595959&labelColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=black)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=CACACA)
-![MarkDown](https://img.shields.io/badge/MarkDown-000000?style=for-the-badge&logo=markdown&logoColor=000000&labelColor=CACACA)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=3776AB&labelColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=black)
-
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+<img align="center" width="50" alt="asyylz" src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
+<img align="center" width="50" alt="asyylz" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg">
 <hr></hr>
 <img align="center" width="34%"  style="max-width: 100%;" alt="asyylz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyylz&amp;layout=compact&amp;theme=tokyonight">
 <img align="center" width="40%" style="max-width: 100%;" alt="asyylz" src="https://github-readme-streak-stats.herokuapp.com/?user=asyylz&amp;theme=tokyonight">
