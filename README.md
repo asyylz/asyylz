@@ -1,16 +1,4 @@
 <table  align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/asyylz/asyylz/blob/318673113cf4037a1b29ae4bd2b877142bd74600/BigBen.jpg" alt="london" width="150%" align="left">
-    </td>
-    <td width="50px">
-    
- <p>➖I live in London. <br>
-        ➖My IT career started in 2019 as an automation tester. <br>
-        ➖I'm currently learning frontend  development.<br>
-        ➖Currently, I am focusing on React, Javascript, SASS, Bootstrap...</p>
-
-
 <a href="https://linkedin.com/in/asiye-yaliz-8b834922b" rel="nofollow">
 <img src="https://github.com/asyylz/asyylz/blob/f69cb69a61f07ae652b5bc97e349d27a3e96e4b2/assets/linkedin.png" height="30em" align="center" alt="linkedin" target="_blank" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/asyylzz" rel="nofollow">
@@ -18,8 +6,6 @@
 <a href="mailto:asiyeyaliz@gmail.com" rel="nofollow" target="_blank">
 <img src="https://github.com/asyylz/asyylz/raw/f69cb69a61f07ae652b5bc97e349d27a3e96e4b2/assets/gmail.png" height="20em" align="center" alt="Gmail" style="max-width: 100%;">
 </a>
-</td>
-</tr>
 </table>
 <hr></hr>
 </div>
